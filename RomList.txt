@@ -24,4 +24,4 @@ Dr. Mario
 Pokemon - Yellow Version - Special Pikachu Edition
 
 [GBC]
-Pokemon Red GBC.gb
+Pokemon Red Version

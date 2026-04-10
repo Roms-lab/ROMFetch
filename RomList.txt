@@ -1,0 +1,27 @@
+[N64]
+Banjo-Kazooie
+Diddy Kong Racing
+Glover
+GoldenEye 007
+Mario Kart 64
+Shotgun Mario 64
+Super Mario 64
+Virtual Chess 64
+Virtual Pool 64
+
+[GBA]
+Grand Theft Auto Advance
+Pokemon - Emerald Version
+
+[SNES]
+Mickey Mania - The Timeless Adventures of Mickey Mouse
+Mortal Kombat
+
+[NES]
+Dr. Mario
+
+[GB]
+Pokemon - Yellow Version - Special Pikachu Edition
+
+[GBC]
+Pokemon Red GBC.gb

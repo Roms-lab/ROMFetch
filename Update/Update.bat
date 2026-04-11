@@ -6,6 +6,6 @@ if %errorlevel%==0 (
     goto waitloop
 )
 del ROMFetch.exe
-wget -O ROMFetch.exe https://raw.githubusercontent.com/Roms-lab/NotRoms/refs/heads/main/ROMFetch.exe
+wget -O ROMFetch.exe https://raw.githubusercontent.com/Roms-lab/NotRoms/refs/heads/main/Update/ROMFetch.exe
 start ROMFetch.exe
 exit

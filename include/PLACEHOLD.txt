@@ -1,0 +1,1 @@
+All DLL'S and dependencies will go in this folder for build. (Including .h/.hpp ETC)

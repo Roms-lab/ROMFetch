@@ -8,6 +8,7 @@ Shotgun Mario 64
 Super Mario 64
 Virtual Chess 64
 Virtual Pool 64
+Paper Mario
 
 [GBA]
 Grand Theft Auto Advance

@@ -4,15 +4,11 @@ Diddy Kong Racing
 Glover
 GoldenEye 007
 Mario Kart 64
+Paper Mario
 Shotgun Mario 64
 Super Mario 64
 Virtual Chess 64
 Virtual Pool 64
-Paper Mario
-
-[GBA]
-Grand Theft Auto Advance
-Pokemon - Emerald Version
 
 [SNES]
 Mickey Mania - The Timeless Adventures of Mickey Mouse
@@ -21,8 +17,12 @@ Mortal Kombat
 [NES]
 Dr. Mario
 
-[GB]
-Pokemon - Yellow Version - Special Pikachu Edition
+[GBA]
+Grand Theft Auto Advance
+Pokemon - Emerald Version
 
 [GBC]
 Pokemon Red Version
+
+[GB]
+Pokemon - Yellow Version - Special Pikachu Edition

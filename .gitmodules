@@ -1,0 +1,3 @@
+[submodule "include/cpr"]
+	path = include/cpr
+	url = https://github.com/libcpr/cpr.git

@@ -1,3 +1,6 @@
 [submodule "include/cpr"]
 	path = include/cpr
 	url = https://github.com/libcpr/cpr.git
+[submodule "external/ImFrame"]
+	path = external/ImFrame
+	url = https://github.com/JamesBoer/ImFrame.git
